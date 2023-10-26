@@ -14,20 +14,9 @@ const fs = require('fs')
 
 
 var cors = require('cors')
-config({
-  cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
-  api_key: process.env.CLOUDINARY_API_KEY,
-  api_secret: process.env.CLOUDINARY_API_SECRET,
-});
 
-// cloudinary.config({
-//   cloud_name: 'dpv7sfd09',
-//   api_key: '916184952314884',
-//   api_secret: 'Nb-AINTtJsIfj9XeG6ICDiA1VYo_gY',
-// });
-// cloudinary.config({
-//   secure: true
-// });
+
+
 
 
 admin.initializeApp({
