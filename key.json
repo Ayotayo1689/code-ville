@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bitstock-three-api",
+  "private_key_id": "a5db1c17f83a9d90cdb898308c06cd259bc2bd4b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDASK5Wgj85kFZx\nSw/3QiuGT2m+pmF8dBMOx5gVhefS82qYN8YClY0/Ll8dyg7Pcqe+9mREnofxJ4wv\nAhMN3Qa8cGAbMbKlhuDcvG4Fi501WkenK3Ydgg+FrNZKH5UxR6EESHoXxTxKQCfX\nwO3lnyX3j6ViAFSOseSIPunjvMCLB7Sps9Wm+gLLIbcNsfCsZGjbFHluNC5cYWFp\nkX/sic5M+cKAa4wI5Zq+kv/qr94T3dopr10SifZDWENd4IIjj/v/os0/QGCpH9hb\nArtse1cHzfxfKVe4XZlFOF79nIYi14hV56EQ271Dx5w92/XUKy0Ys/8ppP9JgZT8\neyNE5LcRAgMBAAECggEAAifObIHWm5qWnXvYmKOmlpbapJx7iJ2fKRHruTILFej3\nT5rbHrmhH7gxW3Ahwl7n/9KwmmRR5HjWWss3KMygKrSdHzDrbmzt+wt8YEDfE54I\nzO2bzAY346kQWJG0u8dbHWUtQ97zfLxDYL507EILIZSmp0vsUWfacVHjOqj/BOVI\nPEsAErs+zVUBzaWDC98CO19UtSLDEfr2QAbggNexo/y8NTGwbR3wUIiWnhtGUihA\nVxdbWxCGv1FEnMEJ9H9EAS8/ZR6MuE6kWavBp+wJZjgH4fT+QJw/Vibq62+SEZnf\nXANxPAPGFWMlTMrbJNgZ6Jl6/sRZh4R5azOjfXlYwQKBgQDrGCQ/i/ut2cyB18u3\nDSFe0kZ2qwUA9p2DtzqZ344PO4Db1y4PfWsSaCZn65IAh7b9BwZAzi05+kP8IthQ\nQpkZLNsOgRmPxwco4i5ZceilUZnINyP7Zy1V7N7sk6D/NxCoFPFiAe8GZ0Bbxy/h\nEKP9Ayzbjslwa8bHDT2CMWM11QKBgQDRYfjs2UGhZvIVKDMb3qlzIr4vqr6rg0Gx\n6Tw7LAskdtvLgY1MpDVFgGOY6nqjb9fwadn4k9oDbNlMGe8XU0wzC0IzO2IcFW0D\n7AQB6qatNXkptPUGvBtfx4jtpQyobeNY3BgxTyd0BIVi3cLegkf4jSU/ZTDxaOEK\nclta/zxuTQKBgQCDJPl7lYw1ZC0oNYhHugRmj+iM5EQrUGd4BaukEMh/iNMOUBA6\nxd0H7J+YExpkP1D9/4AmgJ1MHWb1bT68LxqWp6YfhjcLNJyy2tG+RcPhDQ87WD8z\nTFBHAZct5ADIviAFk4FAChIbwVdum0QDSjQgvTe11wZaN1UwzxsD2KcebQKBgEpX\nc898b+4DpC5Y4JSjoRxtGIPKJvq0ls25VxZXU/l1biK6c9Xjc7qilDpF/pcq7cvB\neY/lxwFyU1DO4HIytBpng/C2w+XewZ8j3GRl0Roso0Foq5rhjQKb0QU3ld/zbEYv\nlzNivEpYFJf+zuK79RvN2YzBu/fq2gQgiEkt2GH9AoGAMGHDtv+pHhkCxhYEQ083\n/1K5YVySK14yz6jWRBBzFTwDKi20LwHUqg2KLqLTI9CqOUcPKpcCygMpad/5NqzO\n5/Jop5lBhjSzLbroGm8cyPcHoJ19b48lfu/Kl72whZiXVjCGTJpViGQ0igK4CQzL\nmlqG4YeDKTIRhCgjctA9RYA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-jc4nw@bitstock-three-api.iam.gserviceaccount.com",
+  "client_id": "111210695793535054714",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-jc4nw%40bitstock-three-api.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
