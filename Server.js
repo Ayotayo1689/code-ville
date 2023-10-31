@@ -223,7 +223,7 @@ app.post('/users', async (req, res) => {
 app.put('/users/:userId/profile_pic', async (req, res) => {
   try {
     const { userId } = req.params;
-    const { school } = req.body;
+    const { profilePic } = req.body;
 
     const userRef = admin.firestore().collection('users').doc(userId);
 
@@ -237,7 +237,6 @@ app.put('/users/:userId/profile_pic', async (req, res) => {
     res.status(500).json({ error: 'Failed to update user picture', msg: error });
   }
 });
-
 
 
 // Create an API endpoint to add a task for a specific user
