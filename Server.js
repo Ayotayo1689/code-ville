@@ -234,7 +234,7 @@ app.put('/users/:userId/profile_pic', async (req, res) => {
     });
   } catch (error) {
     console.error('Error updating user picture:', error);
-    res.status(500).json({ error: 'Failed to update user picture' });
+    res.status(500).json({ error: 'Failed to update user picture', msg: error });
   }
 });
 
